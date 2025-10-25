@@ -37,7 +37,7 @@ Most SQL anti-patterns emerge from time pressure and short-term workarounds that
 1. Download the skill:
    ```bash
    # Clone this repository
-   git clone https://github.com/YOUR_USERNAME/sql-anti-patterns-skill.git
+   git clone https://github.com/HHHNEO/sql-anti-patterns-skill.git
 
    # Or download the SKILL.md file directly
    ```
